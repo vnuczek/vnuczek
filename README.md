@@ -45,7 +45,7 @@ I believe in the power of open source and enjoy contributing to various projects
   
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vnuczek&show_icons=true&theme=radical)
 
 ## Get in Touch
 
