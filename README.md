@@ -1,12 +1,7 @@
-# Welcome to My GitHub Profile! 👋
-
-Hello! I'm Konrad Wnuk, a passionate software developer and technology enthusiast. Welcome to my GitHub profile, where I share my projects, collaborations, and contributions to the open-source community.
-
 ## About Me
 
 - 🎓 I am currently a Computer Science student at the Silesian University of Technology.
 - 🌱 I’m constantly learning and exploring new technologies.
-- 💬 Ask me about web development, machine learning, and open-source contributions.
 - 📫 How to reach me: k.wnuk03@gmail.com
 
 ## Skills
@@ -15,18 +10,13 @@ Hello! I'm Konrad Wnuk, a passionate software developer and technology enthusias
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 - **Databases**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 
-## Interests
+## Contributions
 
-Outside of coding and technology, I have a range of interests that keep me inspired and motivated:
-
-- 💻 **Technology and Programming**: I love experimenting with new programming languages and frameworks.
-- 🏋️ **Sport**: I stay active by going to the gym, playing soccer, cycling, swimming, and skiing.
-- 📚 **Learning and Education**: I am passionate about continuous learning and often take online courses to expand my knowledge. I also enjoy mentoring and sharing knowledge with others.
-- 🎮 **Gaming**: I'm interested in game development and love playing action and RPG games. Exploring new game mechanics and narratives fascinates me.
+- [Neuro-Fuzzy Library](https://github.com/ksiminski/neuro-fuzzy-library)
+  - Implemented cross-validation to improve model robustness and reliability.
+  - Added linguistic descriptions to enhance the interpretability of the neuro-fuzzy models.
 
 ## Projects
-
-Here are some of my notable projects:
 
 ### [Python Pong Game](https://github.com/vnuczek/Pong)
 Description: This project is a classic implementation of the Pong game using Python and the Pygame library
@@ -34,13 +24,12 @@ Description: This project is a classic implementation of the Pong game using Pyt
 ### [C++ Sorting Temolates](https://github.com/vnuczek/Sorting-Templates-Cpp)
 Description: A C++ project containing sorting algorithms templates based on iterators and lambda expressions
 
-## Contributions
+## Interests
 
-I believe in the power of open source and enjoy contributing to various projects. Here are some repositories I've contributed to:
-
-- [Neuro-Fuzzy Library](https://github.com/ksiminski/neuro-fuzzy-library)
-  - Implemented cross-validation to improve model robustness and reliability.
-  - Added linguistic descriptions to enhance the interpretability of the neuro-fuzzy models.
+- 💻 **Technology and Programming**: I love experimenting with new programming languages and frameworks.
+- 🏋️ **Sport**: I stay active by going to the gym, playing soccer, cycling, swimming, and skiing.
+- 📚 **Learning and Education**: I am passionate about continuous learning and often take online courses to expand my knowledge. I also enjoy mentoring and sharing knowledge with others.
+- 🎮 **Gaming**: I'm interested in game development and love playing action and RPG games. Exploring new game mechanics and narratives fascinates me.
 
   
 ## GitHub Stats
