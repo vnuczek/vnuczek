@@ -28,17 +28,20 @@ Outside of coding and technology, I have a range of interests that keep me inspi
 
 Here are some of my notable projects:
 
-### [Project 1](https://github.com/vnuczek/Pong)
+### [Python Pong Game](https://github.com/vnuczek/Pong)
 Description: This project is a classic implementation of the Pong game using Python and the Pygame library
 
-### [Project 2](https://github.com/vnuczek/Sorting-Templates-Cpp)
+### [C++ Sorting Temolates](https://github.com/vnuczek/Sorting-Templates-Cpp)
 Description: A C++ project containing sorting algorithms templates based on iterators and lambda expressions
 
 ## Contributions
 
 I believe in the power of open source and enjoy contributing to various projects. Here are some repositories I've contributed to:
 
-- [Open Source Project 1](https://github.com/ksiminski/neuro-fuzzy-library)
+- [Neuro-Fuzzy Library](https://github.com/ksiminski/neuro-fuzzy-library)
+  - Implemented cross-validation to improve model robustness and reliability.
+  - Added linguistic descriptions to enhance the interpretability of the neuro-fuzzy models.
+
   
 ## GitHub Stats
 
